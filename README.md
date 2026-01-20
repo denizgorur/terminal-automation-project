@@ -29,3 +29,10 @@ Terminal Automation ve Modern Yazılım Süreçleri
 
 ## Sonuç
 Bu proje eğitim amacıyla hazırlanmıştır.
+
+## Proje Dosyaları
+
+- researchs klasörü
+- specs klasörü
+- src klasörü
+- docs klasörü
