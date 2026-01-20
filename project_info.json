@@ -1,0 +1,8 @@
+{
+  "projectName": "Terminal Automation Project",
+  "author": "Deniz",
+  "version": "1.0.0",
+  "description": "Bu proje terminal otomasyonu ve GitHub proje yapisini ogrenmek amaciyla hazirlanmistir.",
+  "language": "Python",
+  "type": "Education Project"
+}
