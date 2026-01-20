@@ -1,4 +1,4 @@
-# terminal-automation-project
+# terminal-automation
 ## Proje Hakkında
 Bu proje, terminal otomasyonu ve GitHub workflow süreçlerini öğrenmek amacıyla hazırlanmıştır.
 Proje kapsamında derin araştırma yapılmış ve otomasyon mantığı Python dili ile uygulanmıştır.
